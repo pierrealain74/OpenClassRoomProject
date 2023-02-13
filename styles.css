@@ -1,4 +1,7 @@
-.titre > h1{
+h1{
     font-size: 25px;
     color: red;
+}
+.titre{
+    color:blue;
 }
