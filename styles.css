@@ -1,7 +1,4 @@
-h1{
-    font-size: 25px;
-    color: red;
-}
-.titre{
-    color:blue;
+div > H1 {
+    color : olive;
+    font-size: 28px;
 }
